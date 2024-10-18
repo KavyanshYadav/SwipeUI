@@ -1,0 +1,14 @@
+{
+    "connection":{
+        "mongodb":true,
+        "namd":{
+            "anda":{
+                "dads":0,
+                "dsd":{
+                    "sdsd":0
+                }
+            }
+        }
+    },
+    "ttl":1000000
+}
